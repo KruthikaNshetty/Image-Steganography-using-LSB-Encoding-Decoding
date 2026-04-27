@@ -28,9 +28,9 @@ This project implements image steganography by hiding secret text data inside a 
 - Debugging low-level file operations
 
  ## ▶️ How to Run
-  1 gcc *.c
-  2 ./stego -e input.bmp output.bmp "secret message"
-  3 ./stego -d output.bmp
+- 1 gcc *.c
+- 2 ./stego -e input.bmp output.bmp "secret message"
+- 3 ./stego -d output.bmp
 
 
 
