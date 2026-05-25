@@ -21,11 +21,6 @@ This project implements image steganography by hiding secret text data inside a 
 - Stores encoded image
 - Decoding extracts bits and reconstructs message
 
-## ⚠️ Challenges Faced
-- Practical use of bitwise operations
-- Working with binary files
-- Data hiding techniques
-- Debugging low-level file operations
 
 ## ▶️ How to Run
 - 1 gcc *.c
